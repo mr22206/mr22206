@@ -33,26 +33,26 @@ Grâce à mes expériences professionnelles et académiques, j'ai développé de
 - Outil Python pour convertir des fichiers PDF en images.
 - Utilise la bibliothèque **Pillow** pour le traitement d'images.
 
-🔗 [Voir le dépôt](https://github.com/tonutilisateur/convert_pdf_to_image_public)
+🔗 [Voir le dépôt](https://github.com/mr22206/convert_pdf_to_image_public.git)
 
 ### 🌐 **MyServeur - Interface Web sur Raspberry Pi**
 - Serveur personnel hébergé sur Raspberry Pi avec interface web pour le partage de fichiers.
 - Intégré avec **Discord** pour des interactions en temps réel.
 
-🔗 [Voir le dépôt](https://github.com/tonutilisateur/myserveur)
+🔗 [Voir le dépôt](https://github.com/mr22206/Personal-Server.git)
 
 ### 🛠️ **PCS Plumbing Website**
 - Site web professionnel pour une entreprise de plomberie à Carros, France, fournissant des informations sur les services de plomberie, chauffage et climatisation.
 - Construit avec **HTML**, **CSS**, et **JavaScript**.
 
-🔗 [Voir le dépôt](https://github.com/tonutilisateur/pcs_plumbing_website)
+🔗 [Voir le dépôt](https://github.com/mr22206/Plumbing-website.git)
 
 ### 🖥️ **Dépannageinfo06 - IT Support Website**
 - Site web offrant des services de support technique, dépannage informatique et formations personnalisées.
 - Intègre la maintenance proactive et le support à distance.
 - Développé en **HTML**, **CSS**, et **JavaScript**.
 
-🔗 [Voir le dépôt](https://github.com/tonutilisateur/depannageinfo06)
+🔗 [Voir le dépôt](https://github.com/mr22206/Computer-troubleshooting-site.git)
 
 ### 🤖 **Botcesi (Projet Privé)**
 - Bot conçu pour automatiser certaines tâches dans l'écosystème CESI.
