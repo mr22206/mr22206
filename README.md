@@ -93,7 +93,7 @@ Je souhaite apporter ma contribution dans le domaine de la **cybersécurité** e
 
 - 📧 **Email** : [rezki.mohammad.222@gmail.com](mailto:rezki.mohammad.222@gmail.com)
 - 🌍 **Site personnel** : [depinformatique06.ddns.net](https://depinformatique06.ddns.net)
-- 📱 **Téléphone** : 06 61 38 83 74
+- 📱 **Téléphone** : 06 ** ** ** **
 - 💼 **LinkedIn** : [@Mohammad Rezki](https://linkedin.com/in/mohammad-rezki)
 
 ---
