@@ -57,13 +57,13 @@ Grâce à mes expériences professionnelles et académiques, j'ai développé de
 - Application pour gérer les données sur la qualité de l'air pour le Ministère de l'Écologie.
 - Gère les capteurs et publie des rapports météorologiques.
 
-🔗 [Voir le dépôt](https://github.com/mr22206/DATA-X.git) | [Voir sur GitHub Pages](https://mr22206.github.io/DATA-X/)
+🔗 [Voir le dépôt](https://github.com/mr22206/DATA-X.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Air-Quality-Data-Management-Tool/)
 
 ### ❓ **Quiz TDMK - Site Web du Projet**
 - Quiz interactif pour tester les connaissances dans divers domaines.
 - Développé en collaboration dans le cadre d'un projet éducatif.
 
-🔗 [Voir le dépôt](https://github.com/mr22206/Quiz-TDMK.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Quiz-TDMK/)
+🔗 [Voir le dépôt](https://github.com/mr22206/Quiz-TDMK.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Quiz-TDMK-Site-Web-du-Projet/)
 
 ### 💻 **CryptoMentor - Informations sur les Cryptomonnaies**
 - Bot Discord pour obtenir des informations sur les cryptomonnaies.
@@ -81,7 +81,7 @@ Grâce à mes expériences professionnelles et académiques, j'ai développé de
 - Projet éducatif pour expliquer des notions clés en sciences de l'ingénieur.
 - Contient des ressources pédagogiques sur la modélisation 3D, la création de sites web, et la programmation.
 
-🔗 [Voir le dépôt](https://github.com/mr22206/Projet-SI.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Projet-SI/)
+🔗 [Voir le dépôt](https://github.com/mr22206/Projet-SI.git) | [Voir sur GitHub Pages]([https://mr22206.github.io/Projet-SI/](https://mr22206.github.io/SI-Engineering-Sciences-Project-Presentation/))
 
 ---
 
