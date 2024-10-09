@@ -53,17 +53,17 @@ Grâce à mes expériences professionnelles et académiques, j'ai développé de
 
 🔗 [Voir le dépôt](https://github.com/mr22206/Quiz-TDMK-Site-Web-du-Projet.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Quiz-TDMK-Site-Web-du-Projet/)
 
-### 💻 **CryptoMentor - Informations sur les Cryptomonnaies**
-- Bot Discord pour obtenir des informations sur les cryptomonnaies.
-- Affiche les avatars et la variation de prix des cryptomonnaies en temps réel.
-
-🔗 [Voir le dépôt](https://github.com/mr22206/CryptoMentor.git) | [Voir sur GitHub Pages](https://mr22206.github.io/CryptoMentor/)
-
 ### 🧑‍🔧 **Projet SI (Sciences de l'Ingénieur)**
 - Projet éducatif pour expliquer des notions clés en sciences de l'ingénieur.
 - Contient des ressources pédagogiques sur la modélisation 3D, la création de sites web, et la programmation.
 
 🔗 [Voir le dépôt](https://github.com/mr22206/SI-Engineering-Sciences-Project-Presentation.git) | [Voir sur GitHub Pages](https://mr22206.github.io/SI-Engineering-Sciences-Project-Presentation/)
+
+### 💻 **CryptoMentor - Informations sur les Cryptomonnaies**
+- Bot Discord pour obtenir des informations sur les cryptomonnaies.
+- Affiche les avatars et la variation de prix des cryptomonnaies en temps réel.
+
+🔗 [Voir le dépôt](https://github.com/mr22206/CryptoMentor.git)
 
 ### 📚 **Bot Discord - "LES EUCALYPTUS COURS"**
 - Bot pour gérer les ressources scolaires et organiser les élèves sur un serveur Discord.
