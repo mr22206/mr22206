@@ -28,18 +28,6 @@ Grâce à mes expériences professionnelles et académiques, j'ai développé de
 
 ## Projets Récents
 
-### 🔒 **Convert_pdf_to_image_public**
-- Outil Python pour convertir des fichiers PDF en images.
-- Utilise la bibliothèque **Pillow** pour le traitement d'images.
-
-🔗 [Voir le dépôt](https://github.com/mr22206/convert_pdf_to_image_public.git) | [Voir sur GitHub Pages](https://mr22206.github.io/convert_pdf_to_image_public/)
-
-### 🌐 **MyServeur - Interface Web sur Raspberry Pi**
-- Serveur personnel hébergé sur Raspberry Pi avec interface web pour le partage de fichiers.
-- Intégré avec **Discord** pour des interactions en temps réel.
-
-🔗 [Voir le dépôt](https://github.com/mr22206/Personal-Server.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Personal-Server/)
-
 ### 🛠️ **PCS Plumbing Website**
 - Site web professionnel pour une entreprise de plomberie à Carros, France, fournissant des informations sur les services de plomberie, chauffage et climatisation.
 - Construit avec **HTML**, **CSS**, et **JavaScript**.
@@ -81,7 +69,19 @@ Grâce à mes expériences professionnelles et académiques, j'ai développé de
 - Projet éducatif pour expliquer des notions clés en sciences de l'ingénieur.
 - Contient des ressources pédagogiques sur la modélisation 3D, la création de sites web, et la programmation.
 
-🔗 [Voir le dépôt](https://github.com/mr22206/Projet-SI.git) | [Voir sur GitHub Pages]([https://mr22206.github.io/Projet-SI/](https://mr22206.github.io/SI-Engineering-Sciences-Project-Presentation/))
+🔗 [Voir le dépôt](https://github.com/mr22206/Projet-SI.git) | [Voir sur GitHub Pages](https://mr22206.github.io/SI-Engineering-Sciences-Project-Presentation/)
+
+### 🔒 **Convert_pdf_to_image_public**
+- Outil Python pour convertir des fichiers PDF en images.
+- Utilise la bibliothèque **Pillow** pour le traitement d'images.
+
+🔗 [Voir le dépôt](https://github.com/mr22206/convert_pdf_to_image_public.git) | [Voir sur GitHub Pages](https://mr22206.github.io/convert_pdf_to_image_public/)
+
+### 🌐 **MyServeur - Interface Web sur Raspberry Pi**
+- Serveur personnel hébergé sur Raspberry Pi avec interface web pour le partage de fichiers.
+- Intégré avec **Discord** pour des interactions en temps réel.
+
+🔗 [Voir le dépôt](https://github.com/mr22206/Personal-Server.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Personal-Server/)
 
 ---
 
