@@ -63,7 +63,7 @@ Grâce à mes expériences professionnelles et académiques, j'ai développé de
 - Projet éducatif pour expliquer des notions clés en sciences de l'ingénieur.
 - Contient des ressources pédagogiques sur la modélisation 3D, la création de sites web, et la programmation.
 
-🔗 [Voir le dépôt](https://github.com/mr22206/Projet-SI.git) | [Voir sur GitHub Pages](https://mr22206.github.io/SI-Engineering-Sciences-Project-Presentation/)
+🔗 [Voir le dépôt](https://github.com/mr22206/SI-Engineering-Sciences-Project-Presentation.git) | [Voir sur GitHub Pages](https://mr22206.github.io/SI-Engineering-Sciences-Project-Presentation/)
 
 ### 📚 **Bot Discord - "LES EUCALYPTUS COURS"**
 - Bot pour gérer les ressources scolaires et organiser les élèves sur un serveur Discord.
