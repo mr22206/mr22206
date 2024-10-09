@@ -45,7 +45,7 @@ Grâce à mes expériences professionnelles et académiques, j'ai développé de
 - Application pour gérer les données sur la qualité de l'air pour le Ministère de l'Écologie.
 - Gère les capteurs et publie des rapports météorologiques.
 
-🔗 [Voir le dépôt](https://github.com/mr22206/DATA-X.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Air-Quality-Data-Management-Tool/)
+🔗 [Voir le dépôt](https://github.com/mr22206/Air-Quality-Data-Management-Tool.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Air-Quality-Data-Management-Tool/)
 
 ### ❓ **Quiz TDMK - Site Web du Projet**
 - Quiz interactif pour tester les connaissances dans divers domaines.
