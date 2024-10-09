@@ -51,7 +51,7 @@ Grâce à mes expériences professionnelles et académiques, j'ai développé de
 - Quiz interactif pour tester les connaissances dans divers domaines.
 - Développé en collaboration dans le cadre d'un projet éducatif.
 
-🔗 [Voir le dépôt](https://github.com/mr22206/Quiz-TDMK.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Quiz-TDMK-Site-Web-du-Projet/)
+🔗 [Voir le dépôt](https://github.com/mr22206/Quiz-TDMK-Site-Web-du-Projet.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Quiz-TDMK-Site-Web-du-Projet/)
 
 ### 💻 **CryptoMentor - Informations sur les Cryptomonnaies**
 - Bot Discord pour obtenir des informations sur les cryptomonnaies.
