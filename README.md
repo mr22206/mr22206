@@ -53,10 +53,6 @@ Grâce à mes expériences professionnelles et académiques, j'ai développé de
 
 🔗 [Voir le dépôt](https://github.com/mr22206/Computer-troubleshooting-site.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Computer-troubleshooting-site/)
 
-### 🤖 **Botcesi (Projet Privé)**
-- Bot conçu pour automatiser certaines tâches dans l'écosystème CESI.
-- **Projet confidentiel**.
-
 ### 📊 **DATA-X - Outil de Gestion des Données sur la Qualité de l'Air**
 - Application pour gérer les données sur la qualité de l'air pour le Ministère de l'Écologie.
 - Gère les capteurs et publie des rapports météorologiques.
