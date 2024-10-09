@@ -24,7 +24,6 @@ Grâce à mes expériences professionnelles et académiques, j'ai développé de
 - **Développement Web** : HTML5, CSS, JavaScript.
 - **Automatisation** : Scripts Python et administration système.
 - **Formation** : Enseignement et animation d'ateliers numériques.
-
 ---
 
 ## Projets Récents
@@ -33,46 +32,60 @@ Grâce à mes expériences professionnelles et académiques, j'ai développé de
 - Outil Python pour convertir des fichiers PDF en images.
 - Utilise la bibliothèque **Pillow** pour le traitement d'images.
 
-🔗 [Voir le dépôt](https://github.com/mr22206/convert_pdf_to_image_public.git)
+🔗 [Voir le dépôt](https://github.com/mr22206/convert_pdf_to_image_public.git) | [Voir sur GitHub Pages](https://mr22206.github.io/convert_pdf_to_image_public/)
 
 ### 🌐 **MyServeur - Interface Web sur Raspberry Pi**
 - Serveur personnel hébergé sur Raspberry Pi avec interface web pour le partage de fichiers.
 - Intégré avec **Discord** pour des interactions en temps réel.
 
-🔗 [Voir le dépôt](https://github.com/mr22206/Personal-Server.git)
+🔗 [Voir le dépôt](https://github.com/mr22206/Personal-Server.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Personal-Server/)
 
 ### 🛠️ **PCS Plumbing Website**
 - Site web professionnel pour une entreprise de plomberie à Carros, France, fournissant des informations sur les services de plomberie, chauffage et climatisation.
 - Construit avec **HTML**, **CSS**, et **JavaScript**.
 
-🔗 [Voir le dépôt](https://github.com/mr22206/Plumbing-website.git)
+🔗 [Voir le dépôt](https://github.com/mr22206/Plumbing-website.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Plumbing-website/)
 
 ### 🖥️ **Dépannageinfo06 - IT Support Website**
 - Site web offrant des services de support technique, dépannage informatique et formations personnalisées.
 - Intègre la maintenance proactive et le support à distance.
 - Développé en **HTML**, **CSS**, et **JavaScript**.
 
-🔗 [Voir le dépôt](https://github.com/mr22206/Computer-troubleshooting-site.git)
+🔗 [Voir le dépôt](https://github.com/mr22206/Computer-troubleshooting-site.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Computer-troubleshooting-site/)
 
 ### 🤖 **Botcesi (Projet Privé)**
 - Bot conçu pour automatiser certaines tâches dans l'écosystème CESI.
 - **Projet confidentiel**.
 
----
+### 📊 **DATA-X - Outil de Gestion des Données sur la Qualité de l'Air**
+- Application pour gérer les données sur la qualité de l'air pour le Ministère de l'Écologie.
+- Gère les capteurs et publie des rapports météorologiques.
 
-## Expériences Professionnelles
+🔗 [Voir le dépôt](https://github.com/mr22206/DATA-X.git) | [Voir sur GitHub Pages](https://mr22206.github.io/DATA-X/)
 
-### **Technicien Support et Monétique** | Avem | Depuis juillet 2024
-- Installation et gestion de systèmes monétiques.
-- Formation des utilisateurs pour un meilleur usage des outils.
+### ❓ **Quiz TDMK - Site Web du Projet**
+- Quiz interactif pour tester les connaissances dans divers domaines.
+- Développé en collaboration dans le cadre d'un projet éducatif.
 
-### **Auto-entrepreneur - Technicien Informatique** | Tech Info Tuto | Depuis septembre 2021
-- Optimisation et maintenance de systèmes pour plus de 127 clients.
-- Taux de satisfaction client de 98 %.
+🔗 [Voir le dépôt](https://github.com/mr22206/Quiz-TDMK.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Quiz-TDMK/)
 
-### **Formateur Numérique pour Seniors** | Click & Moi | Depuis novembre 2023
-- Formation de seniors avec un taux de satisfaction de 90 %.
-- Création de supports pédagogiques sur l'utilisation des outils numériques.
+### 💻 **CryptoMentor - Informations sur les Cryptomonnaies**
+- Bot Discord pour obtenir des informations sur les cryptomonnaies.
+- Affiche les avatars et la variation de prix des cryptomonnaies en temps réel.
+
+🔗 [Voir le dépôt](https://github.com/mr22206/CryptoMentor.git) | [Voir sur GitHub Pages](https://mr22206.github.io/CryptoMentor/)
+
+### 📚 **Bot Discord - "LES EUCALYPTUS COURS"**
+- Bot pour gérer les ressources scolaires et organiser les élèves sur un serveur Discord.
+- Gère les rôles et publie automatiquement des ressources pédagogiques.
+
+🔗 [Voir le dépôt](https://github.com/mr22206/LES-EUCALYPTUS-COURS.git) | [Voir sur GitHub Pages](https://mr22206.github.io/LES-EUCALYPTUS-COURS/)
+
+### 🧑‍🔧 **Projet SI (Sciences de l'Ingénieur)**
+- Projet éducatif pour expliquer des notions clés en sciences de l'ingénieur.
+- Contient des ressources pédagogiques sur la modélisation 3D, la création de sites web, et la programmation.
+
+🔗 [Voir le dépôt](https://github.com/mr22206/Projet-SI.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Projet-SI/)
 
 ---
 
