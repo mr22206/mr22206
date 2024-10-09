@@ -59,29 +59,29 @@ Grâce à mes expériences professionnelles et académiques, j'ai développé de
 
 🔗 [Voir le dépôt](https://github.com/mr22206/CryptoMentor.git) | [Voir sur GitHub Pages](https://mr22206.github.io/CryptoMentor/)
 
-### 📚 **Bot Discord - "LES EUCALYPTUS COURS"**
-- Bot pour gérer les ressources scolaires et organiser les élèves sur un serveur Discord.
-- Gère les rôles et publie automatiquement des ressources pédagogiques.
-
-🔗 [Voir le dépôt](https://github.com/mr22206/LES-EUCALYPTUS-COURS.git) | [Voir sur GitHub Pages](https://mr22206.github.io/LES-EUCALYPTUS-COURS/)
-
 ### 🧑‍🔧 **Projet SI (Sciences de l'Ingénieur)**
 - Projet éducatif pour expliquer des notions clés en sciences de l'ingénieur.
 - Contient des ressources pédagogiques sur la modélisation 3D, la création de sites web, et la programmation.
 
 🔗 [Voir le dépôt](https://github.com/mr22206/Projet-SI.git) | [Voir sur GitHub Pages](https://mr22206.github.io/SI-Engineering-Sciences-Project-Presentation/)
 
+### 📚 **Bot Discord - "LES EUCALYPTUS COURS"**
+- Bot pour gérer les ressources scolaires et organiser les élèves sur un serveur Discord.
+- Gère les rôles et publie automatiquement des ressources pédagogiques.
+
+🔗 [Voir le dépôt](https://github.com/mr22206/Eucalyptus-Helper.git)
+
 ### 🔒 **Convert_pdf_to_image_public**
 - Outil Python pour convertir des fichiers PDF en images.
 - Utilise la bibliothèque **Pillow** pour le traitement d'images.
 
-🔗 [Voir le dépôt](https://github.com/mr22206/convert_pdf_to_image_public.git) | [Voir sur GitHub Pages](https://mr22206.github.io/convert_pdf_to_image_public/)
+🔗 [Voir le dépôt](https://github.com/mr22206/convert_pdf_to_image_public.git)
 
 ### 🌐 **MyServeur - Interface Web sur Raspberry Pi**
 - Serveur personnel hébergé sur Raspberry Pi avec interface web pour le partage de fichiers.
 - Intégré avec **Discord** pour des interactions en temps réel.
 
-🔗 [Voir le dépôt](https://github.com/mr22206/Personal-Server.git) | [Voir sur GitHub Pages](https://mr22206.github.io/Personal-Server/)
+🔗 [Voir le dépôt](https://github.com/mr22206/Personal-Server.git)
 
 ---
 
